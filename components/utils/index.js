@@ -6,7 +6,7 @@ export const requiredProp = (type) => ({
     // New comment
     // another change
     // Chidi made this one!
-    // this one is a wrong stuff!
+    // this one is a wrong stuff! ? Why did u do this?
 })
 
 export const requiredStringProp = requiredProp(String)
