@@ -4,6 +4,7 @@
     transition="scale-transition"
     content-class="w-[545px] auth-dialog"
   >
+  <!-- changed here too! -->
     <h2 id="dialog-title" class="sr-only">Recovery link</h2>
     <v-container class="mt-[18px] w-[424px] pb-[68px] px-0">
       <v-row>
