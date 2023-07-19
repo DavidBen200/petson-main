@@ -8,6 +8,7 @@ export const requiredProp = (type) => ({
     // Chidi made this one!
     // this one is a wrong stuff! ? Why did u do this? You could do it
     // this one is a wrong stuff! ? Why did u do this? -- I did it for blah
+    // new changes made! why?
 })
 
 export const requiredStringProp = requiredProp(String)
@@ -16,6 +17,7 @@ export const undefinedProp = (type) => ({
     type,
     undefined: true,
 })
+echo 'RUN LXAPPEARANCE expand this!'
 
 export const undefinedStringProp = undefinedProp(String)
 
